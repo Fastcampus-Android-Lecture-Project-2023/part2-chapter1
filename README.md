@@ -1,5 +1,9 @@
 # 웹툰앱 (part2 - chapter 1)
 
+
+![스크린샷](./screenshot/1.png)
+![스크린샷](./screenshot/2.png)
+
 ## 이 챕터를 통해 배우는 것
 
 1. WebView 사용하기
